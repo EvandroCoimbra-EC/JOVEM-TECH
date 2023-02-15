@@ -9,30 +9,8 @@ const sequelize = new Sequelize('jovemtech','root', 'root', {
 
 module.exports = {
     Sequelize: Sequelize,
-    sequelize: sequelize,
+    sequelize: sequelize
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
